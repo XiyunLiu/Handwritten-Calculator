@@ -16,7 +16,7 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 /**
- * @author: Xiyun Liu, Meng Li, Jingwen Xie
+ * @author: Xiyun Liu
  * About: Main file of our program. Create a CUI for calculator
  * compile: javac -cp objectdraw.jar:. Calculator.java
  * run: java -cp objectdraw.jar:. Calculator
