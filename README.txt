@@ -4,7 +4,7 @@ GENERAL USAGE NOTES
 ————————————————————
 
 - This program is to create a handwritten calculator. 
-	It has the basic functions of a common calculator, however, if the user open the white board by clicking the bottom button, the user can use mouse to write one digit per block. The program can recognize your previous one digit when you click the operator buttons or start writing the next digits. For more instructions, please watch the following video: https://youtu.be/-e4gA2cmIQ8
+	It has the basic functions of a common calculator, however, if the user open the white board by clicking the bottom button, the user can use mouse to write one digit per block. The program can recognize your previous one digit when you click the operator buttons or start writing the next digit. For more instructions, please watch the following video: https://youtu.be/-e4gA2cmIQ8
 
 - To run this program on ieng6.ucsd.edu server, you should do the following several steps before compiling and running it.
   The steps are kind of complex. If you have trouble with running this program, please feel free to contact me.
@@ -105,8 +105,19 @@ File Description:
 Setup Eclipse
 ———————————————
 
-1. Select File -> New -> Java Project2. In the pop up dialog, name the project HW9 and hit the Next > button3. Select the Libraries tab
-4. Select Add External JARs button5. Find and select the 4 provided Apache POI JAR files6. Select Add External JARs button7. Find and select the “objectdraw.jar”8. Click to expand the JRE System Library9. Select Access Rules: No rules defined10. Hit the Edit button11. Select Add... button12. Change the Resolution to Accessible and Rule Pattern to javafx/**13. Select Ok, Apply, Ok
+1. Select File -> New -> Java Project
+2. In the pop up dialog, name the project HW9 and hit the Next > button
+3. Select the Libraries tab
+4. Select Add External JARs button
+5. Find and select the 4 provided Apache POI JAR files
+6. Select Add External JARs button
+7. Find and select the “objectdraw.jar”
+8. Click to expand the JRE System Library
+9. Select Access Rules: No rules defined
+10. Hit the Edit button
+11. Select Add... button
+12. Change the Resolution to Accessible and Rule Pattern to javafx/**
+13. Select Ok, Apply, Ok
 
 
 ==================================================================================
